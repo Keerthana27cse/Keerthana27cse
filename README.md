@@ -14,8 +14,12 @@ I'm a computer science student with a passion for web development and applicatio
 
 ## 📫 How to reach me
 
-- **Email**: [angeluma823@gmail.com](mailto:kitcbe.25.21bcs022@gmail.com)
-- **LinkedIn**: [Keerthana R](https://www.linkedin.com/in/angel-cse-95a458242)
+
+## 📫 How to reach me
+
+- **Email**: [kitcbe.25.21bcs022@gmail.com](mailto:kitcbe.25.21bcs022@gmail.com)
+- **LinkedIn**: [Keerthana R](https://www.linkedin.com/in/keerthana-r-69a59724b)
+
 
 ## 😄 Pronouns
 
