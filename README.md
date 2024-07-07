@@ -24,11 +24,9 @@ She/Her
 
 ## Languages and Tools
 
-[![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)](https://developer.android.com/)
-
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+[![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)](https://www.cprogramming.com/)
+[![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)](https://www.java.com/en/)
+[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org/)
 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
@@ -40,7 +38,7 @@ She/Her
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 
 
-![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)](https://developer.android.com/)
+[![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)](https://developer.android.com/)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 
 Thanks for visiting my GitHub profile! Feel free to explore my projects and connect with me if you're interested in collaboration or discussions on web development and Application development.
