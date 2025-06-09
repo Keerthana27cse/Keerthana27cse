@@ -3,10 +3,11 @@
 I'm a computer science student with a passion for web development and application development. Currently, I'm exploring projects and learning opportunities in these diverse fields to broaden my expertise and contribute to innovative solutions.
 
 ## 🌱 I’m currently learning
-
+  
 - **Frontend technologies** such as HTML, CSS, and JavaScript
 - **Backend frameworks** like Node.js, MongoDB, and MySQL
 - **Application development** with Java in Android Studio
+- **Full Stack Development** React.js (Frontend) + Spring Boot with Java (Backend) + MySQL (Database)
 
 ## 👯 I’m looking to collaborate on
 
@@ -24,7 +25,6 @@ She/Her
 
 ## Languages and Tools
 
-[![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)](https://www.cprogramming.com/)
 [![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)](https://www.java.com/en/)
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org/)
 
@@ -33,7 +33,6 @@ She/Her
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 
